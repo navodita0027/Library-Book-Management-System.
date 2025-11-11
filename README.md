@@ -6,7 +6,7 @@
 
 ## Features
 
-### 🧾 Core Modules
+### Core Modules
 - **Book Management**
   - Add, update, and list books (with pagination, sorting & filters)
   - Soft delete (only if no active borrow record)
